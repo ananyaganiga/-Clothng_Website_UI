@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"name": "assignment",
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "assignment"
+  }
+}
